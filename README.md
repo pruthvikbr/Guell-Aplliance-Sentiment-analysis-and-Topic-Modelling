@@ -30,7 +30,8 @@ The case study, "Guell Appliances: A Refrigerator's World We're Just Living In,"
 - **TextBlob**: Used to compute sentiment polarity scores from the review text.
 ![image](https://github.com/user-attachments/assets/71a316dd-a521-402d-8e8e-7b56d51c51db)
 ![image](https://github.com/user-attachments/assets/7457af9b-d038-4283-915c-9ce2116fa07c)
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/23eac6c1-f7cb-4dc9-aec0-9df5fb952a9f">
+<img width="1494" alt="image" src="https://github.com/user-attachments/assets/1f9f4985-8be5-4e4d-aafd-3a3afe641824">
+
 
 
 ## Conclusion
